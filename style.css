@@ -1,0 +1,87 @@
+body, h1, h2, h3, p, ul, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+
+
+header {
+  background-color: #0077b5;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header p {
+  font-size: 18px;
+}
+
+
+
+
+.recipe h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+
+.about-me {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.about-me h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.about-me p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.about-me h3 {
+  font-size: 20px;
+  color: #0077b5;
+  margin-bottom: 10px;
+}
+
+.about-me ul {
+  list-style: none;
+}
+
+.about-me ul li {
+  margin-bottom: 8px;
+}
+
+.about-me a {
+  text-decoration: none;
+  color: #0077b5;
+}
+
+/* Contact Information Styles */
+.contact-info {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+}
+
+.contact-info p {
+  font-size: 18px;
+  color: #333;
+}
